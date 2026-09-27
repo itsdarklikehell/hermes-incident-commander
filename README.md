@@ -16,6 +16,11 @@ no Hermes installation required.
 
 ## What's New
 
+## Ontwikkeltijdlijn
+
+<video src="https://raw.githubusercontent.com/itsdarklikehell/hermes-incident-commander/master/gource.mp4" controls width="100%"></video>
+
+
 - 💬 **Microsoft Teams notification channel** - `TEAMS_WEBHOOK_URL` posts a
   MessageCard, colored by severity, alongside Discord/Slack/PagerDuty/the
   generic webhook.
