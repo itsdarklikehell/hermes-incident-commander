@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Gource](https://img.shields.io/github/actions/workflow/status/itsdarklikehell/hermes-incident-commander/gource.yml?style=for-the-badge&label=Gource)](https://github.com/itsdarklikehell/hermes-incident-commander/actions/workflows/gource.yml)
 
 > **An autonomous SRE agent that detects, diagnoses, and heals production infrastructure - then learns from every incident it resolves.**
 
